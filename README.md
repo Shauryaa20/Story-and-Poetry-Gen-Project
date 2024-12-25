@@ -1,17 +1,8 @@
-# Next-Word Prediction
+# React + Vite
 
-## Overview
-This branch is dedicated to the `Next-Word Prediction` project. It demonstrates natural language processing (NLP) techniques to predict the next word in a sequence.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
-- NLP-based next-word prediction.
-- Includes a pre-trained model and training notebook.
-- Easy-to-use Jupyter Notebook for experimentation.
+Currently, two official plugins are available:
 
-## Installation
-1. Clone the repository and switch to this branch:
-   ```bash
-   git clone https://github.com/Shauryaa20/Story-and-Poetry-Gen-Project.git
-   cd Story-and-Poetry-Gen-Project
-   git checkout yadnyesh
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
